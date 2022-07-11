@@ -7,7 +7,7 @@ A meals app built in flutter that contains multiple meal categories and multiple
 This project is not recomended for begginers because it contains many technical concepts of data flow and user flow to maintain the data fatching from class models.
 
 
-##A few resources to get you started:
+## A few resources to get you started:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
